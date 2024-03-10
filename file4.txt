@@ -1,1 +1,2 @@
-file 4 changed
+conflict creation wfile 4 modified
+
